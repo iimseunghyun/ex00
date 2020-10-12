@@ -20,7 +20,7 @@
 
 
 	<property name="username" value = "book_ex"></property>
-	<property name="password" value = "gustmddla426"></property>
+	<property name="password" value = "***"></property>
 	</bean>
 	
 	<bean id= "dataSource" class ="com.zaxxer.hikari.HikariDataSource"
